@@ -1,0 +1,28 @@
+form{
+    margin: auto;
+    text-align: center;
+}
+
+input{
+    width: 20%;
+    padding: 14px 20px;
+}
+
+button{
+    width: 24%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    /* margin: 8px 0; */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    text-align: center;
+  }
+
+  h3{
+   background-color: red;
+  }
